@@ -3,7 +3,7 @@
 
 ## Desafio de projeto
 
-Este projeto é parte do desafio proposto no módulo de Testes Unitários com C# na trilha .NET da DIO.
+Este projeto é parte do desafio proposto no módulo de Testes Unitários com C# e xUnit na trilha .NET da DIO.
 
 ## Objetivo do Desafio
 
